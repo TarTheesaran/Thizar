@@ -1,3 +1,7 @@
+# Thizar Architecture concepts
+<img width="1156" height="599" alt="image" src="https://github.com/user-attachments/assets/1ae2e781-cd81-4587-abc0-9c1849acd095" />
+
+
 This is a Kotlin Multiplatform project targeting Android, iOS, Web, Desktop (JVM), Server.
 
 * [/composeApp](./composeApp/src) is for code that will be shared across your Compose Multiplatform applications.
